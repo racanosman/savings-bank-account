@@ -1,6 +1,5 @@
 package com.racan.api.savings.services;
 
-import com.racan.api.savings.models.User;
 import com.racan.api.savings.dao.accounts.AccountsDAO;
 import com.racan.api.savings.models.User;
 import org.springframework.beans.factory.annotation.Autowired;
